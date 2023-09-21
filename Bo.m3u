@@ -1,18 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://puu.sh/rR8Rh/2dc99880ec.png" group-title="España",13tv
-http://usuarios.club/usuarios/src4/13tv/demoUwD/OV0.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/reIHx/6250def099.png" group-title="Entretenimiento",A&E
-http://usuarios.club/usuarios/src1/AEHD/demoUwD/OV0.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/reIHx/6250def099.png" group-title="Entretenimiento",A&E (Opcion 2)
-http://usuarios.club/usuarios/src2/AE_MUNDO_HD/demoUwD/OV0.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/reIHx/6250def099.png" group-title="Entretenimiento",A&E (720p)
-http://usuarios.club/usuarios/src2/AE_MUNDO_HD/demoUwD/OV0/hd.m3u8
-
-#EXTINF:-1 tvg-logo="https://puu.sh/xnPDd/ef771257b3.png" group-title="Entretenimiento",A3Series
-http://usuarios.club/usuarios/src4/A3Series/demoUwD/OV0.m3u8
-
-#EXTINF:-1 tvg-logo="https://puu.sh/xuJBp/5d44dd9abb.png" group-title="Noticias",ADN 40
-http://usuarios.club/usuarios/src4/ADN40/demoUwD/OV0.m3u8
+#EXTINF:-1 RECORDNEWS
+https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
+#EXTINF:-1 CNN SAMSUNG
+https://dsuub0ebctcrw.cloudfront.net/dist/samsungtv/358/hls/master/playlist.m3u8
+#EXTINF:-1 BAND
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+#EXTINF:-1 GLOBO
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/TVGLOBO/__op/hls-default/__f/index.m3u8
+#EXTINF:-1 RECORD
+https://caikron.com.br:19360/criciuma/criciuma.m3u8
+#EXTINF:-1 UNITEL
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8
+#EXTINF:-1 F10
+https://video.live.com.bo:3253/live/f10hdlive.m3u8
+#EXTINF:-1 APUNT
+https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/playlist_dvr.m3u8
