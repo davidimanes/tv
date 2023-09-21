@@ -1,6 +1,5 @@
 #EXTM3U
-
-#EXTINF:-1 APUNT
+#EXTINF:-1 
 https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/playlist_dvr.m3u8
-#EXTINF:-1 TV3
+#EXTINF:-1 
 https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
